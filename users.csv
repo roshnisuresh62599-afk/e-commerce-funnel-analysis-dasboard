@@ -1,0 +1,1501 @@
+user_id,signup_date,city,device_type,acquisition_channel
+1,2025-06-13,Mumbai,Mobile,Instagram
+2,2025-03-04,Chennai,Mobile,Organic
+3,2025-06-23,Jaipur,Mobile,Referral
+4,2025-04-19,Bangalore,Mobile,Organic
+5,2025-02-25,Chennai,Tablet,Referral
+6,2025-01-07,Jaipur,Mobile,Referral
+7,2025-04-18,Chennai,Desktop,Referral
+8,2025-03-13,Bangalore,Mobile,LinkedIn
+9,2025-03-29,Hyderabad,Mobile,Google Ads
+10,2025-03-28,Mumbai,Mobile,LinkedIn
+11,2025-01-25,Pune,Desktop,Referral
+12,2025-03-09,Bangalore,Tablet,LinkedIn
+13,2025-05-18,Mumbai,Desktop,Organic
+14,2025-05-22,Hyderabad,Tablet,Referral
+15,2025-04-03,Kochi,Mobile,Organic
+16,2025-01-12,Chennai,Desktop,Organic
+17,2025-03-01,Mumbai,Desktop,Instagram
+18,2025-04-27,Pune,Mobile,Instagram
+19,2025-04-01,Chennai,Tablet,Instagram
+20,2025-06-29,Mumbai,Tablet,Google Ads
+21,2025-05-17,Chennai,Mobile,LinkedIn
+22,2025-04-08,Hyderabad,Tablet,Referral
+23,2025-02-26,Pune,Mobile,Google Ads
+24,2025-01-09,Pune,Desktop,Instagram
+25,2025-01-17,Chennai,Tablet,Instagram
+26,2025-02-24,Ahmedabad,Desktop,LinkedIn
+27,2025-02-06,Hyderabad,Mobile,Google Ads
+28,2025-05-24,Jaipur,Desktop,Referral
+29,2025-04-20,Kochi,Desktop,Instagram
+30,2025-02-26,Delhi,Tablet,LinkedIn
+31,2025-01-24,Bangalore,Mobile,Google Ads
+32,2025-06-10,Delhi,Tablet,LinkedIn
+33,2025-06-02,Mumbai,Desktop,LinkedIn
+34,2025-06-02,Ahmedabad,Tablet,Instagram
+35,2025-05-22,Bangalore,Tablet,Organic
+36,2025-06-24,Jaipur,Desktop,Instagram
+37,2025-01-29,Hyderabad,Desktop,Google Ads
+38,2025-04-27,Bangalore,Tablet,Instagram
+39,2025-05-09,Delhi,Tablet,Organic
+40,2025-06-10,Hyderabad,Tablet,Referral
+41,2025-06-05,Chennai,Mobile,Instagram
+42,2025-02-11,Jaipur,Tablet,Organic
+43,2025-06-03,Pune,Desktop,Organic
+44,2025-01-29,Pune,Desktop,Google Ads
+45,2025-01-15,Chennai,Tablet,Organic
+46,2025-01-22,Ahmedabad,Mobile,Referral
+47,2025-02-02,Delhi,Tablet,LinkedIn
+48,2025-05-21,Delhi,Desktop,Referral
+49,2025-06-05,Kolkata,Mobile,Referral
+50,2025-06-26,Chennai,Tablet,Instagram
+51,2025-04-13,Pune,Desktop,Referral
+52,2025-04-26,Mumbai,Mobile,Google Ads
+53,2025-01-17,Pune,Mobile,Referral
+54,2025-05-22,Chennai,Tablet,Google Ads
+55,2025-01-02,Mumbai,Tablet,Organic
+56,2025-02-28,Mumbai,Mobile,Instagram
+57,2025-01-19,Jaipur,Mobile,Instagram
+58,2025-06-21,Ahmedabad,Mobile,Referral
+59,2025-02-03,Kochi,Tablet,LinkedIn
+60,2025-03-04,Ahmedabad,Desktop,Google Ads
+61,2025-01-25,Mumbai,Tablet,LinkedIn
+62,2025-04-01,Kolkata,Desktop,LinkedIn
+63,2025-01-14,Mumbai,Mobile,LinkedIn
+64,2025-03-28,Mumbai,Mobile,Google Ads
+65,2025-02-18,Jaipur,Desktop,Google Ads
+66,2025-04-19,Delhi,Desktop,LinkedIn
+67,2025-03-05,Mumbai,Desktop,Referral
+68,2025-01-26,Bangalore,Tablet,Referral
+69,2025-01-04,Mumbai,Mobile,Google Ads
+70,2025-04-15,Ahmedabad,Desktop,Google Ads
+71,2025-04-13,Bangalore,Mobile,LinkedIn
+72,2025-01-01,Kolkata,Desktop,LinkedIn
+73,2025-03-15,Kolkata,Tablet,Referral
+74,2025-06-19,Ahmedabad,Mobile,Google Ads
+75,2025-03-17,Chennai,Mobile,Referral
+76,2025-05-19,Bangalore,Tablet,Instagram
+77,2025-01-15,Bangalore,Tablet,LinkedIn
+78,2025-05-09,Jaipur,Mobile,Organic
+79,2025-05-11,Mumbai,Mobile,Organic
+80,2025-06-02,Mumbai,Tablet,Google Ads
+81,2025-04-14,Mumbai,Tablet,Google Ads
+82,2025-05-29,Kochi,Mobile,Referral
+83,2025-01-21,Kolkata,Tablet,Referral
+84,2025-05-25,Jaipur,Desktop,Instagram
+85,2025-02-22,Pune,Mobile,Instagram
+86,2025-04-12,Delhi,Tablet,Instagram
+87,2025-04-28,Pune,Mobile,Organic
+88,2025-04-28,Kochi,Tablet,Organic
+89,2025-01-19,Jaipur,Mobile,Referral
+90,2025-03-09,Delhi,Desktop,Organic
+91,2025-03-04,Pune,Desktop,Google Ads
+92,2025-04-23,Jaipur,Tablet,Instagram
+93,2025-06-06,Jaipur,Mobile,Referral
+94,2025-03-18,Mumbai,Mobile,Instagram
+95,2025-01-30,Mumbai,Tablet,Referral
+96,2025-02-09,Hyderabad,Desktop,Referral
+97,2025-02-23,Pune,Mobile,Instagram
+98,2025-05-10,Ahmedabad,Desktop,Organic
+99,2025-01-24,Kolkata,Desktop,Organic
+100,2025-01-01,Pune,Mobile,Instagram
+101,2025-02-11,Ahmedabad,Tablet,LinkedIn
+102,2025-05-24,Bangalore,Mobile,Organic
+103,2025-06-26,Delhi,Tablet,Organic
+104,2025-04-05,Kochi,Tablet,Google Ads
+105,2025-04-21,Delhi,Mobile,Instagram
+106,2025-04-04,Bangalore,Desktop,Google Ads
+107,2025-06-24,Chennai,Tablet,Organic
+108,2025-04-01,Jaipur,Desktop,Referral
+109,2025-02-09,Chennai,Mobile,Google Ads
+110,2025-04-16,Bangalore,Mobile,Instagram
+111,2025-04-16,Chennai,Desktop,Google Ads
+112,2025-06-29,Mumbai,Desktop,Organic
+113,2025-05-01,Chennai,Mobile,LinkedIn
+114,2025-03-31,Hyderabad,Mobile,Google Ads
+115,2025-01-07,Chennai,Desktop,Instagram
+116,2025-03-13,Mumbai,Desktop,Instagram
+117,2025-06-14,Jaipur,Desktop,Referral
+118,2025-03-26,Bangalore,Mobile,Instagram
+119,2025-02-15,Kochi,Desktop,Organic
+120,2025-01-28,Kochi,Desktop,Instagram
+121,2025-03-22,Kolkata,Tablet,Referral
+122,2025-01-30,Kolkata,Tablet,Google Ads
+123,2025-03-07,Bangalore,Tablet,LinkedIn
+124,2025-01-01,Jaipur,Tablet,Google Ads
+125,2025-04-04,Kolkata,Mobile,Instagram
+126,2025-06-09,Pune,Tablet,Organic
+127,2025-03-18,Jaipur,Desktop,LinkedIn
+128,2025-03-25,Kolkata,Tablet,Instagram
+129,2025-05-22,Delhi,Mobile,LinkedIn
+130,2025-06-20,Kolkata,Tablet,Google Ads
+131,2025-06-07,Kochi,Desktop,LinkedIn
+132,2025-05-21,Bangalore,Desktop,Instagram
+133,2025-02-23,Kolkata,Tablet,Referral
+134,2025-06-17,Pune,Desktop,LinkedIn
+135,2025-04-24,Chennai,Tablet,LinkedIn
+136,2025-02-13,Mumbai,Desktop,Referral
+137,2025-06-19,Kochi,Desktop,Organic
+138,2025-03-02,Hyderabad,Mobile,Google Ads
+139,2025-02-07,Bangalore,Mobile,Google Ads
+140,2025-05-02,Kochi,Mobile,LinkedIn
+141,2025-04-17,Kochi,Mobile,LinkedIn
+142,2025-05-07,Kolkata,Mobile,Google Ads
+143,2025-06-17,Bangalore,Mobile,LinkedIn
+144,2025-02-26,Delhi,Tablet,Referral
+145,2025-04-29,Bangalore,Tablet,Google Ads
+146,2025-02-01,Ahmedabad,Mobile,LinkedIn
+147,2025-06-20,Jaipur,Tablet,Referral
+148,2025-03-23,Ahmedabad,Tablet,Referral
+149,2025-04-20,Jaipur,Desktop,Google Ads
+150,2025-05-02,Ahmedabad,Desktop,Google Ads
+151,2025-06-13,Hyderabad,Tablet,LinkedIn
+152,2025-06-10,Chennai,Desktop,LinkedIn
+153,2025-01-20,Hyderabad,Mobile,Instagram
+154,2025-03-27,Pune,Tablet,Organic
+155,2025-02-05,Delhi,Mobile,LinkedIn
+156,2025-06-27,Delhi,Tablet,Google Ads
+157,2025-01-17,Kolkata,Desktop,Instagram
+158,2025-05-19,Ahmedabad,Desktop,Organic
+159,2025-02-22,Kolkata,Desktop,Referral
+160,2025-06-28,Bangalore,Tablet,LinkedIn
+161,2025-05-03,Bangalore,Desktop,Instagram
+162,2025-04-10,Kolkata,Tablet,Referral
+163,2025-06-04,Chennai,Desktop,Google Ads
+164,2025-03-11,Kolkata,Desktop,Organic
+165,2025-04-10,Pune,Tablet,LinkedIn
+166,2025-02-12,Ahmedabad,Mobile,Referral
+167,2025-05-17,Bangalore,Desktop,Referral
+168,2025-05-25,Bangalore,Mobile,LinkedIn
+169,2025-02-04,Ahmedabad,Mobile,Organic
+170,2025-03-08,Kolkata,Desktop,Google Ads
+171,2025-04-27,Pune,Desktop,LinkedIn
+172,2025-03-13,Kolkata,Desktop,Organic
+173,2025-05-01,Bangalore,Tablet,Referral
+174,2025-01-14,Pune,Mobile,Organic
+175,2025-06-16,Bangalore,Mobile,Google Ads
+176,2025-02-21,Bangalore,Tablet,Google Ads
+177,2025-03-03,Delhi,Desktop,Organic
+178,2025-05-25,Chennai,Desktop,Instagram
+179,2025-04-05,Delhi,Tablet,Referral
+180,2025-01-30,Delhi,Desktop,Organic
+181,2025-05-29,Bangalore,Desktop,Referral
+182,2025-06-23,Kolkata,Desktop,Google Ads
+183,2025-01-20,Kochi,Tablet,Google Ads
+184,2025-01-27,Hyderabad,Tablet,Referral
+185,2025-01-31,Kochi,Mobile,Instagram
+186,2025-05-17,Kolkata,Tablet,Instagram
+187,2025-01-18,Jaipur,Tablet,Instagram
+188,2025-01-04,Kolkata,Desktop,Organic
+189,2025-04-21,Pune,Tablet,LinkedIn
+190,2025-02-09,Kolkata,Mobile,Referral
+191,2025-06-16,Hyderabad,Tablet,Referral
+192,2025-05-04,Ahmedabad,Desktop,Referral
+193,2025-03-10,Pune,Mobile,Organic
+194,2025-03-13,Ahmedabad,Mobile,LinkedIn
+195,2025-05-26,Kochi,Tablet,LinkedIn
+196,2025-03-28,Bangalore,Desktop,Instagram
+197,2025-02-16,Ahmedabad,Mobile,Instagram
+198,2025-03-08,Pune,Desktop,Referral
+199,2025-06-29,Hyderabad,Tablet,Organic
+200,2025-05-13,Chennai,Mobile,Google Ads
+201,2025-04-15,Ahmedabad,Tablet,Google Ads
+202,2025-06-26,Ahmedabad,Tablet,LinkedIn
+203,2025-04-25,Bangalore,Mobile,Instagram
+204,2025-02-26,Kolkata,Tablet,Google Ads
+205,2025-03-20,Kochi,Desktop,LinkedIn
+206,2025-05-22,Jaipur,Desktop,LinkedIn
+207,2025-05-21,Pune,Desktop,LinkedIn
+208,2025-03-11,Hyderabad,Desktop,Google Ads
+209,2025-01-31,Chennai,Desktop,Organic
+210,2025-05-18,Delhi,Mobile,Google Ads
+211,2025-05-04,Hyderabad,Tablet,Referral
+212,2025-05-15,Kochi,Desktop,Organic
+213,2025-02-19,Hyderabad,Mobile,Instagram
+214,2025-02-15,Hyderabad,Mobile,Referral
+215,2025-02-02,Hyderabad,Mobile,Organic
+216,2025-05-22,Hyderabad,Tablet,Google Ads
+217,2025-06-13,Ahmedabad,Mobile,Organic
+218,2025-05-27,Hyderabad,Desktop,LinkedIn
+219,2025-04-23,Pune,Mobile,Organic
+220,2025-03-06,Ahmedabad,Mobile,Organic
+221,2025-04-13,Ahmedabad,Mobile,Referral
+222,2025-06-11,Bangalore,Mobile,Google Ads
+223,2025-05-25,Hyderabad,Mobile,Google Ads
+224,2025-01-31,Jaipur,Desktop,Referral
+225,2025-06-02,Kochi,Mobile,Referral
+226,2025-04-08,Ahmedabad,Desktop,Instagram
+227,2025-05-31,Kolkata,Desktop,Referral
+228,2025-06-08,Bangalore,Tablet,Organic
+229,2025-02-23,Chennai,Desktop,Organic
+230,2025-02-10,Chennai,Mobile,Referral
+231,2025-01-20,Delhi,Mobile,LinkedIn
+232,2025-04-26,Kochi,Desktop,Instagram
+233,2025-01-09,Chennai,Desktop,Instagram
+234,2025-06-29,Ahmedabad,Mobile,Google Ads
+235,2025-03-09,Kochi,Tablet,Google Ads
+236,2025-04-19,Mumbai,Tablet,Google Ads
+237,2025-06-15,Delhi,Desktop,Google Ads
+238,2025-01-19,Bangalore,Mobile,Instagram
+239,2025-06-02,Kochi,Desktop,LinkedIn
+240,2025-02-01,Ahmedabad,Tablet,Instagram
+241,2025-06-29,Kolkata,Desktop,Referral
+242,2025-05-19,Ahmedabad,Desktop,Organic
+243,2025-06-03,Bangalore,Desktop,Instagram
+244,2025-06-04,Hyderabad,Mobile,Organic
+245,2025-02-28,Kochi,Tablet,Organic
+246,2025-06-22,Hyderabad,Tablet,Organic
+247,2025-02-14,Ahmedabad,Tablet,LinkedIn
+248,2025-03-13,Delhi,Tablet,LinkedIn
+249,2025-06-12,Ahmedabad,Mobile,LinkedIn
+250,2025-03-31,Kolkata,Desktop,Instagram
+251,2025-06-21,Mumbai,Mobile,Instagram
+252,2025-04-16,Ahmedabad,Desktop,LinkedIn
+253,2025-05-21,Bangalore,Desktop,Organic
+254,2025-03-22,Hyderabad,Desktop,Organic
+255,2025-04-14,Jaipur,Mobile,Referral
+256,2025-04-29,Kolkata,Mobile,Google Ads
+257,2025-05-13,Pune,Tablet,LinkedIn
+258,2025-06-10,Ahmedabad,Mobile,Google Ads
+259,2025-03-10,Jaipur,Mobile,Instagram
+260,2025-04-23,Ahmedabad,Mobile,Organic
+261,2025-06-11,Kochi,Mobile,Google Ads
+262,2025-03-21,Jaipur,Mobile,Referral
+263,2025-04-15,Mumbai,Mobile,Organic
+264,2025-04-29,Mumbai,Tablet,Google Ads
+265,2025-05-08,Hyderabad,Tablet,Instagram
+266,2025-04-17,Ahmedabad,Desktop,Google Ads
+267,2025-04-27,Jaipur,Mobile,LinkedIn
+268,2025-02-18,Kochi,Tablet,Google Ads
+269,2025-01-18,Hyderabad,Desktop,Instagram
+270,2025-05-10,Hyderabad,Mobile,Instagram
+271,2025-03-18,Kochi,Tablet,LinkedIn
+272,2025-02-08,Ahmedabad,Tablet,LinkedIn
+273,2025-03-30,Pune,Tablet,Referral
+274,2025-04-07,Ahmedabad,Desktop,Google Ads
+275,2025-06-28,Chennai,Tablet,LinkedIn
+276,2025-03-01,Kolkata,Mobile,Instagram
+277,2025-05-02,Kolkata,Desktop,Google Ads
+278,2025-05-07,Bangalore,Mobile,Referral
+279,2025-06-01,Pune,Mobile,LinkedIn
+280,2025-01-26,Jaipur,Desktop,Organic
+281,2025-02-06,Kolkata,Tablet,Google Ads
+282,2025-01-20,Ahmedabad,Desktop,Instagram
+283,2025-06-09,Kolkata,Tablet,Organic
+284,2025-03-26,Jaipur,Desktop,Instagram
+285,2025-06-10,Ahmedabad,Tablet,Organic
+286,2025-06-08,Mumbai,Mobile,Instagram
+287,2025-02-28,Mumbai,Desktop,Organic
+288,2025-06-12,Mumbai,Desktop,Google Ads
+289,2025-06-27,Hyderabad,Mobile,Organic
+290,2025-03-25,Bangalore,Desktop,Instagram
+291,2025-04-06,Kolkata,Mobile,Google Ads
+292,2025-05-16,Kolkata,Tablet,Google Ads
+293,2025-02-13,Delhi,Mobile,Referral
+294,2025-04-08,Kochi,Tablet,Google Ads
+295,2025-05-08,Kochi,Mobile,Google Ads
+296,2025-04-29,Hyderabad,Desktop,Instagram
+297,2025-06-20,Bangalore,Desktop,Instagram
+298,2025-06-23,Jaipur,Mobile,Organic
+299,2025-04-24,Pune,Tablet,Instagram
+300,2025-06-13,Kolkata,Tablet,Instagram
+301,2025-04-27,Hyderabad,Mobile,LinkedIn
+302,2025-05-04,Mumbai,Mobile,LinkedIn
+303,2025-05-27,Pune,Tablet,Instagram
+304,2025-06-29,Hyderabad,Mobile,LinkedIn
+305,2025-03-12,Bangalore,Tablet,Organic
+306,2025-06-05,Ahmedabad,Desktop,Google Ads
+307,2025-06-05,Pune,Mobile,Google Ads
+308,2025-06-08,Hyderabad,Tablet,Google Ads
+309,2025-06-10,Mumbai,Tablet,Organic
+310,2025-03-21,Ahmedabad,Mobile,Referral
+311,2025-04-04,Delhi,Mobile,Instagram
+312,2025-03-25,Kolkata,Mobile,Google Ads
+313,2025-02-03,Jaipur,Desktop,Referral
+314,2025-05-09,Hyderabad,Mobile,Instagram
+315,2025-05-04,Hyderabad,Tablet,Instagram
+316,2025-01-30,Ahmedabad,Mobile,Google Ads
+317,2025-02-27,Kolkata,Tablet,Instagram
+318,2025-01-24,Kolkata,Mobile,Instagram
+319,2025-05-18,Mumbai,Desktop,Instagram
+320,2025-06-22,Hyderabad,Tablet,LinkedIn
+321,2025-06-13,Pune,Mobile,Google Ads
+322,2025-05-01,Bangalore,Tablet,Referral
+323,2025-03-25,Kochi,Mobile,Organic
+324,2025-06-12,Ahmedabad,Tablet,Instagram
+325,2025-06-16,Kolkata,Mobile,Google Ads
+326,2025-01-12,Bangalore,Desktop,LinkedIn
+327,2025-01-30,Mumbai,Mobile,Referral
+328,2025-02-04,Kolkata,Desktop,Instagram
+329,2025-06-21,Jaipur,Desktop,Referral
+330,2025-02-09,Kolkata,Tablet,Organic
+331,2025-05-06,Kochi,Desktop,Instagram
+332,2025-01-09,Pune,Mobile,LinkedIn
+333,2025-04-24,Chennai,Desktop,Organic
+334,2025-06-25,Pune,Tablet,Instagram
+335,2025-01-16,Kolkata,Desktop,Google Ads
+336,2025-02-01,Ahmedabad,Mobile,Google Ads
+337,2025-06-14,Kochi,Mobile,Organic
+338,2025-03-27,Chennai,Mobile,Referral
+339,2025-02-22,Mumbai,Tablet,Google Ads
+340,2025-05-31,Chennai,Mobile,Instagram
+341,2025-02-07,Kochi,Mobile,Instagram
+342,2025-02-07,Delhi,Tablet,Instagram
+343,2025-02-14,Mumbai,Tablet,Organic
+344,2025-02-03,Bangalore,Desktop,Google Ads
+345,2025-05-31,Pune,Mobile,Google Ads
+346,2025-03-09,Bangalore,Mobile,LinkedIn
+347,2025-05-15,Mumbai,Tablet,Organic
+348,2025-05-02,Ahmedabad,Desktop,Referral
+349,2025-06-01,Mumbai,Desktop,Referral
+350,2025-02-26,Kochi,Mobile,Referral
+351,2025-03-19,Ahmedabad,Tablet,Organic
+352,2025-01-16,Ahmedabad,Desktop,LinkedIn
+353,2025-06-25,Mumbai,Desktop,LinkedIn
+354,2025-01-19,Mumbai,Desktop,Referral
+355,2025-02-07,Mumbai,Mobile,Instagram
+356,2025-06-09,Kochi,Tablet,Instagram
+357,2025-04-08,Kochi,Tablet,Instagram
+358,2025-04-27,Jaipur,Tablet,LinkedIn
+359,2025-01-26,Mumbai,Tablet,Referral
+360,2025-02-25,Kolkata,Desktop,Google Ads
+361,2025-04-16,Pune,Desktop,LinkedIn
+362,2025-04-17,Mumbai,Desktop,LinkedIn
+363,2025-03-22,Hyderabad,Desktop,Google Ads
+364,2025-06-25,Ahmedabad,Mobile,Organic
+365,2025-01-22,Mumbai,Desktop,Organic
+366,2025-04-06,Delhi,Tablet,Organic
+367,2025-05-31,Jaipur,Tablet,Instagram
+368,2025-06-21,Mumbai,Desktop,Instagram
+369,2025-06-20,Kolkata,Tablet,Organic
+370,2025-03-15,Kochi,Desktop,Instagram
+371,2025-01-27,Kochi,Tablet,Google Ads
+372,2025-02-09,Ahmedabad,Mobile,Organic
+373,2025-03-31,Jaipur,Desktop,Organic
+374,2025-03-13,Kochi,Mobile,LinkedIn
+375,2025-05-24,Kochi,Tablet,Referral
+376,2025-01-07,Kochi,Tablet,Instagram
+377,2025-01-08,Delhi,Desktop,Instagram
+378,2025-03-28,Pune,Mobile,Google Ads
+379,2025-02-06,Kochi,Tablet,LinkedIn
+380,2025-01-18,Delhi,Tablet,Organic
+381,2025-01-24,Jaipur,Mobile,LinkedIn
+382,2025-04-18,Ahmedabad,Desktop,Google Ads
+383,2025-04-05,Hyderabad,Tablet,Instagram
+384,2025-05-26,Kochi,Mobile,Organic
+385,2025-02-09,Delhi,Tablet,Organic
+386,2025-06-22,Mumbai,Desktop,LinkedIn
+387,2025-06-19,Kolkata,Desktop,Referral
+388,2025-04-24,Kolkata,Desktop,Google Ads
+389,2025-05-12,Mumbai,Desktop,LinkedIn
+390,2025-01-29,Hyderabad,Tablet,Referral
+391,2025-05-05,Jaipur,Tablet,Instagram
+392,2025-01-12,Chennai,Desktop,Referral
+393,2025-01-15,Bangalore,Mobile,Instagram
+394,2025-02-24,Delhi,Desktop,Instagram
+395,2025-03-25,Mumbai,Mobile,LinkedIn
+396,2025-04-21,Delhi,Mobile,LinkedIn
+397,2025-05-17,Chennai,Tablet,Referral
+398,2025-06-21,Pune,Mobile,LinkedIn
+399,2025-01-11,Kolkata,Mobile,LinkedIn
+400,2025-01-20,Pune,Tablet,LinkedIn
+401,2025-05-27,Kolkata,Tablet,LinkedIn
+402,2025-03-16,Mumbai,Desktop,Organic
+403,2025-03-25,Delhi,Tablet,LinkedIn
+404,2025-06-26,Pune,Mobile,LinkedIn
+405,2025-01-28,Chennai,Desktop,Referral
+406,2025-04-13,Jaipur,Mobile,LinkedIn
+407,2025-03-21,Pune,Mobile,Instagram
+408,2025-02-13,Mumbai,Tablet,Organic
+409,2025-05-16,Jaipur,Mobile,Instagram
+410,2025-03-31,Delhi,Mobile,Organic
+411,2025-02-07,Hyderabad,Mobile,Google Ads
+412,2025-06-04,Delhi,Tablet,Organic
+413,2025-02-15,Ahmedabad,Desktop,Referral
+414,2025-05-29,Ahmedabad,Tablet,Referral
+415,2025-06-14,Kochi,Desktop,Instagram
+416,2025-02-08,Ahmedabad,Mobile,LinkedIn
+417,2025-04-24,Hyderabad,Desktop,Referral
+418,2025-01-15,Pune,Tablet,Organic
+419,2025-03-21,Ahmedabad,Desktop,Organic
+420,2025-01-15,Pune,Desktop,Organic
+421,2025-06-15,Mumbai,Tablet,Referral
+422,2025-05-10,Kolkata,Desktop,Referral
+423,2025-05-22,Bangalore,Desktop,Referral
+424,2025-06-16,Chennai,Desktop,Referral
+425,2025-05-02,Jaipur,Mobile,Organic
+426,2025-04-26,Mumbai,Desktop,Organic
+427,2025-05-10,Delhi,Mobile,Google Ads
+428,2025-04-23,Ahmedabad,Tablet,Referral
+429,2025-06-06,Delhi,Desktop,Instagram
+430,2025-03-14,Kolkata,Desktop,Instagram
+431,2025-06-23,Kochi,Mobile,Instagram
+432,2025-01-17,Pune,Mobile,Referral
+433,2025-06-23,Kolkata,Desktop,Instagram
+434,2025-06-18,Kochi,Mobile,Instagram
+435,2025-01-21,Kochi,Tablet,Google Ads
+436,2025-03-31,Hyderabad,Tablet,LinkedIn
+437,2025-02-03,Kochi,Tablet,Organic
+438,2025-03-21,Jaipur,Desktop,Instagram
+439,2025-02-02,Jaipur,Mobile,LinkedIn
+440,2025-05-11,Pune,Mobile,Instagram
+441,2025-03-21,Delhi,Mobile,Instagram
+442,2025-05-05,Chennai,Mobile,Google Ads
+443,2025-02-09,Mumbai,Desktop,Organic
+444,2025-05-10,Jaipur,Tablet,Referral
+445,2025-01-10,Pune,Tablet,Google Ads
+446,2025-06-02,Kolkata,Mobile,Google Ads
+447,2025-02-16,Kochi,Mobile,LinkedIn
+448,2025-01-12,Kolkata,Desktop,Google Ads
+449,2025-04-24,Kochi,Desktop,LinkedIn
+450,2025-03-01,Jaipur,Mobile,Instagram
+451,2025-05-01,Chennai,Desktop,Referral
+452,2025-04-23,Ahmedabad,Desktop,LinkedIn
+453,2025-05-09,Jaipur,Desktop,Google Ads
+454,2025-02-21,Kochi,Mobile,Instagram
+455,2025-01-14,Ahmedabad,Desktop,Referral
+456,2025-01-27,Jaipur,Mobile,Instagram
+457,2025-01-22,Delhi,Desktop,LinkedIn
+458,2025-05-12,Delhi,Desktop,Organic
+459,2025-02-26,Ahmedabad,Desktop,Organic
+460,2025-04-17,Bangalore,Desktop,Referral
+461,2025-04-06,Chennai,Desktop,Organic
+462,2025-04-06,Chennai,Mobile,Instagram
+463,2025-01-26,Pune,Mobile,Google Ads
+464,2025-01-10,Hyderabad,Desktop,Google Ads
+465,2025-06-30,Ahmedabad,Desktop,Referral
+466,2025-01-02,Mumbai,Mobile,Instagram
+467,2025-02-25,Delhi,Tablet,Referral
+468,2025-05-16,Kolkata,Mobile,Instagram
+469,2025-03-02,Hyderabad,Mobile,Organic
+470,2025-03-03,Kolkata,Tablet,Referral
+471,2025-04-28,Mumbai,Mobile,LinkedIn
+472,2025-06-02,Jaipur,Mobile,Referral
+473,2025-05-28,Chennai,Tablet,Google Ads
+474,2025-03-16,Kolkata,Mobile,Referral
+475,2025-04-01,Chennai,Tablet,LinkedIn
+476,2025-02-17,Mumbai,Tablet,Instagram
+477,2025-01-18,Jaipur,Tablet,Referral
+478,2025-05-10,Jaipur,Mobile,LinkedIn
+479,2025-05-01,Bangalore,Tablet,LinkedIn
+480,2025-04-06,Hyderabad,Tablet,Organic
+481,2025-04-02,Mumbai,Desktop,Google Ads
+482,2025-06-18,Mumbai,Tablet,Instagram
+483,2025-02-04,Bangalore,Desktop,Referral
+484,2025-03-28,Delhi,Tablet,LinkedIn
+485,2025-06-28,Ahmedabad,Tablet,Google Ads
+486,2025-02-04,Mumbai,Tablet,LinkedIn
+487,2025-01-10,Hyderabad,Mobile,Organic
+488,2025-02-21,Bangalore,Desktop,Instagram
+489,2025-05-12,Kolkata,Tablet,LinkedIn
+490,2025-03-06,Bangalore,Tablet,Google Ads
+491,2025-03-15,Pune,Mobile,Instagram
+492,2025-03-11,Mumbai,Desktop,LinkedIn
+493,2025-04-13,Ahmedabad,Desktop,Instagram
+494,2025-02-17,Ahmedabad,Tablet,LinkedIn
+495,2025-04-05,Jaipur,Desktop,Organic
+496,2025-04-19,Mumbai,Desktop,Referral
+497,2025-02-16,Jaipur,Desktop,Instagram
+498,2025-01-27,Mumbai,Desktop,Instagram
+499,2025-03-20,Ahmedabad,Tablet,LinkedIn
+500,2025-02-12,Ahmedabad,Desktop,LinkedIn
+501,2025-01-11,Pune,Tablet,LinkedIn
+502,2025-03-12,Bangalore,Mobile,LinkedIn
+503,2025-04-04,Jaipur,Tablet,Google Ads
+504,2025-01-08,Delhi,Tablet,LinkedIn
+505,2025-01-09,Delhi,Mobile,Google Ads
+506,2025-06-15,Pune,Desktop,LinkedIn
+507,2025-05-26,Bangalore,Tablet,Google Ads
+508,2025-06-23,Ahmedabad,Desktop,Instagram
+509,2025-04-24,Mumbai,Tablet,Google Ads
+510,2025-05-16,Pune,Desktop,Instagram
+511,2025-06-16,Hyderabad,Mobile,Organic
+512,2025-01-07,Delhi,Desktop,Referral
+513,2025-04-10,Jaipur,Mobile,Instagram
+514,2025-03-08,Ahmedabad,Mobile,Referral
+515,2025-03-15,Ahmedabad,Mobile,Organic
+516,2025-02-04,Mumbai,Desktop,Google Ads
+517,2025-04-24,Mumbai,Tablet,Instagram
+518,2025-06-20,Pune,Tablet,Organic
+519,2025-05-21,Jaipur,Desktop,Instagram
+520,2025-02-10,Delhi,Desktop,Referral
+521,2025-02-27,Mumbai,Mobile,Google Ads
+522,2025-03-02,Ahmedabad,Mobile,Instagram
+523,2025-05-22,Kochi,Desktop,LinkedIn
+524,2025-05-22,Delhi,Tablet,Organic
+525,2025-01-17,Hyderabad,Desktop,LinkedIn
+526,2025-05-15,Kolkata,Desktop,Referral
+527,2025-01-19,Delhi,Desktop,Organic
+528,2025-04-26,Ahmedabad,Tablet,Referral
+529,2025-03-30,Delhi,Tablet,Referral
+530,2025-02-16,Delhi,Desktop,Referral
+531,2025-01-15,Mumbai,Tablet,Google Ads
+532,2025-03-19,Delhi,Mobile,Instagram
+533,2025-02-27,Pune,Tablet,Instagram
+534,2025-01-21,Hyderabad,Mobile,Referral
+535,2025-03-12,Delhi,Tablet,Instagram
+536,2025-06-07,Jaipur,Mobile,Referral
+537,2025-06-14,Delhi,Tablet,Referral
+538,2025-02-09,Delhi,Tablet,Referral
+539,2025-06-04,Pune,Tablet,Organic
+540,2025-01-08,Mumbai,Mobile,Referral
+541,2025-03-09,Chennai,Tablet,LinkedIn
+542,2025-06-08,Bangalore,Desktop,Referral
+543,2025-03-16,Hyderabad,Desktop,Google Ads
+544,2025-06-25,Kolkata,Desktop,LinkedIn
+545,2025-01-19,Bangalore,Mobile,LinkedIn
+546,2025-04-17,Ahmedabad,Desktop,Google Ads
+547,2025-03-29,Kochi,Mobile,Instagram
+548,2025-03-23,Pune,Desktop,Google Ads
+549,2025-04-05,Jaipur,Tablet,Organic
+550,2025-03-23,Chennai,Desktop,Organic
+551,2025-03-10,Ahmedabad,Mobile,Google Ads
+552,2025-01-25,Bangalore,Desktop,LinkedIn
+553,2025-06-07,Kolkata,Mobile,Google Ads
+554,2025-03-25,Kochi,Tablet,Instagram
+555,2025-02-18,Delhi,Desktop,Referral
+556,2025-04-30,Ahmedabad,Desktop,LinkedIn
+557,2025-01-06,Mumbai,Desktop,Referral
+558,2025-04-28,Chennai,Mobile,Referral
+559,2025-04-01,Bangalore,Mobile,Instagram
+560,2025-05-07,Kochi,Tablet,LinkedIn
+561,2025-03-15,Jaipur,Mobile,Organic
+562,2025-04-21,Delhi,Desktop,Instagram
+563,2025-04-14,Pune,Mobile,LinkedIn
+564,2025-01-14,Kochi,Tablet,Google Ads
+565,2025-04-03,Jaipur,Desktop,Organic
+566,2025-04-09,Jaipur,Desktop,Referral
+567,2025-03-13,Kochi,Tablet,Referral
+568,2025-01-31,Delhi,Mobile,LinkedIn
+569,2025-04-06,Pune,Tablet,Instagram
+570,2025-02-06,Chennai,Tablet,Referral
+571,2025-04-13,Jaipur,Mobile,Organic
+572,2025-01-10,Delhi,Tablet,Instagram
+573,2025-05-02,Jaipur,Desktop,Google Ads
+574,2025-06-05,Jaipur,Mobile,Instagram
+575,2025-06-06,Pune,Mobile,LinkedIn
+576,2025-06-07,Hyderabad,Tablet,Instagram
+577,2025-05-10,Jaipur,Tablet,LinkedIn
+578,2025-05-25,Hyderabad,Desktop,Organic
+579,2025-04-05,Pune,Tablet,Organic
+580,2025-04-17,Kochi,Desktop,Organic
+581,2025-06-02,Ahmedabad,Desktop,Referral
+582,2025-05-28,Chennai,Tablet,Organic
+583,2025-05-30,Ahmedabad,Mobile,Referral
+584,2025-06-11,Kochi,Desktop,Google Ads
+585,2025-06-24,Chennai,Mobile,Referral
+586,2025-06-29,Mumbai,Mobile,Organic
+587,2025-04-23,Pune,Desktop,Google Ads
+588,2025-04-16,Chennai,Desktop,Referral
+589,2025-06-06,Ahmedabad,Tablet,Organic
+590,2025-06-30,Delhi,Tablet,Google Ads
+591,2025-05-24,Pune,Tablet,LinkedIn
+592,2025-05-15,Kolkata,Desktop,Google Ads
+593,2025-04-28,Jaipur,Desktop,Referral
+594,2025-04-01,Hyderabad,Tablet,LinkedIn
+595,2025-02-19,Chennai,Desktop,Referral
+596,2025-03-18,Chennai,Desktop,Instagram
+597,2025-06-30,Chennai,Tablet,LinkedIn
+598,2025-03-23,Ahmedabad,Desktop,Referral
+599,2025-03-12,Hyderabad,Mobile,Referral
+600,2025-06-23,Jaipur,Desktop,LinkedIn
+601,2025-03-30,Delhi,Desktop,Organic
+602,2025-03-15,Mumbai,Desktop,LinkedIn
+603,2025-06-17,Hyderabad,Tablet,LinkedIn
+604,2025-02-24,Chennai,Tablet,Instagram
+605,2025-05-24,Hyderabad,Mobile,Organic
+606,2025-06-07,Kochi,Mobile,Google Ads
+607,2025-01-13,Jaipur,Mobile,Google Ads
+608,2025-01-14,Mumbai,Desktop,Instagram
+609,2025-05-01,Mumbai,Tablet,Google Ads
+610,2025-01-02,Jaipur,Mobile,LinkedIn
+611,2025-06-17,Ahmedabad,Desktop,Google Ads
+612,2025-03-15,Pune,Desktop,Organic
+613,2025-01-23,Kochi,Mobile,Referral
+614,2025-01-10,Delhi,Desktop,Google Ads
+615,2025-01-10,Kolkata,Desktop,Google Ads
+616,2025-03-16,Bangalore,Mobile,Instagram
+617,2025-05-26,Kochi,Mobile,Instagram
+618,2025-03-14,Ahmedabad,Tablet,Referral
+619,2025-05-15,Ahmedabad,Mobile,Referral
+620,2025-04-30,Hyderabad,Mobile,Organic
+621,2025-03-26,Delhi,Tablet,LinkedIn
+622,2025-06-15,Hyderabad,Tablet,Google Ads
+623,2025-01-04,Pune,Desktop,Referral
+624,2025-06-22,Chennai,Mobile,Referral
+625,2025-06-13,Kolkata,Desktop,Referral
+626,2025-03-25,Mumbai,Desktop,Organic
+627,2025-02-17,Delhi,Desktop,Instagram
+628,2025-03-05,Bangalore,Desktop,LinkedIn
+629,2025-03-02,Ahmedabad,Desktop,Instagram
+630,2025-03-19,Kochi,Tablet,Referral
+631,2025-01-03,Hyderabad,Tablet,Instagram
+632,2025-06-27,Chennai,Mobile,Organic
+633,2025-04-30,Hyderabad,Mobile,LinkedIn
+634,2025-06-25,Jaipur,Tablet,Instagram
+635,2025-06-26,Mumbai,Tablet,Instagram
+636,2025-04-05,Kochi,Mobile,Google Ads
+637,2025-02-04,Ahmedabad,Mobile,LinkedIn
+638,2025-06-05,Pune,Desktop,Referral
+639,2025-05-01,Jaipur,Tablet,Google Ads
+640,2025-03-05,Kochi,Mobile,Referral
+641,2025-04-25,Jaipur,Tablet,Instagram
+642,2025-01-20,Kochi,Mobile,Organic
+643,2025-05-21,Jaipur,Mobile,Referral
+644,2025-05-18,Delhi,Mobile,Instagram
+645,2025-05-14,Ahmedabad,Mobile,Google Ads
+646,2025-05-30,Ahmedabad,Mobile,Referral
+647,2025-04-25,Bangalore,Desktop,Google Ads
+648,2025-05-12,Kolkata,Desktop,Referral
+649,2025-01-15,Jaipur,Desktop,Instagram
+650,2025-01-06,Kolkata,Desktop,Organic
+651,2025-02-25,Kochi,Mobile,Organic
+652,2025-04-19,Pune,Tablet,Organic
+653,2025-05-19,Bangalore,Mobile,LinkedIn
+654,2025-01-09,Hyderabad,Desktop,Google Ads
+655,2025-02-04,Kolkata,Desktop,LinkedIn
+656,2025-04-25,Kolkata,Desktop,Organic
+657,2025-06-24,Jaipur,Mobile,Instagram
+658,2025-01-31,Delhi,Tablet,LinkedIn
+659,2025-05-16,Delhi,Tablet,Google Ads
+660,2025-01-01,Bangalore,Desktop,LinkedIn
+661,2025-06-22,Jaipur,Desktop,Referral
+662,2025-04-08,Chennai,Mobile,LinkedIn
+663,2025-03-30,Delhi,Desktop,Google Ads
+664,2025-01-29,Bangalore,Tablet,LinkedIn
+665,2025-06-07,Bangalore,Mobile,Google Ads
+666,2025-01-18,Mumbai,Tablet,Organic
+667,2025-04-25,Kochi,Tablet,Organic
+668,2025-03-04,Bangalore,Desktop,LinkedIn
+669,2025-03-01,Jaipur,Mobile,Organic
+670,2025-02-05,Jaipur,Desktop,Google Ads
+671,2025-05-28,Pune,Tablet,Referral
+672,2025-06-22,Pune,Mobile,Instagram
+673,2025-02-06,Jaipur,Mobile,LinkedIn
+674,2025-03-18,Hyderabad,Mobile,Referral
+675,2025-06-01,Delhi,Tablet,LinkedIn
+676,2025-05-23,Ahmedabad,Mobile,Instagram
+677,2025-06-14,Kolkata,Tablet,Instagram
+678,2025-06-28,Kolkata,Desktop,Google Ads
+679,2025-03-18,Kolkata,Mobile,Referral
+680,2025-05-02,Chennai,Mobile,Instagram
+681,2025-02-06,Ahmedabad,Mobile,Referral
+682,2025-04-16,Kolkata,Tablet,Referral
+683,2025-02-04,Kolkata,Mobile,Instagram
+684,2025-02-22,Pune,Tablet,Organic
+685,2025-04-26,Pune,Mobile,Referral
+686,2025-02-18,Bangalore,Desktop,LinkedIn
+687,2025-06-22,Kochi,Tablet,Organic
+688,2025-01-19,Chennai,Tablet,Referral
+689,2025-02-25,Ahmedabad,Mobile,Instagram
+690,2025-03-19,Bangalore,Mobile,Google Ads
+691,2025-01-31,Ahmedabad,Mobile,Referral
+692,2025-06-30,Chennai,Desktop,Google Ads
+693,2025-05-22,Pune,Desktop,LinkedIn
+694,2025-04-30,Jaipur,Tablet,Instagram
+695,2025-03-20,Hyderabad,Desktop,Referral
+696,2025-05-08,Ahmedabad,Mobile,LinkedIn
+697,2025-03-23,Chennai,Desktop,Instagram
+698,2025-04-16,Bangalore,Tablet,Google Ads
+699,2025-02-07,Bangalore,Desktop,Referral
+700,2025-05-30,Kochi,Tablet,LinkedIn
+701,2025-03-17,Delhi,Mobile,Instagram
+702,2025-02-28,Kolkata,Tablet,Google Ads
+703,2025-05-08,Jaipur,Tablet,Instagram
+704,2025-03-07,Ahmedabad,Tablet,LinkedIn
+705,2025-04-28,Delhi,Tablet,Instagram
+706,2025-02-13,Delhi,Tablet,Referral
+707,2025-05-06,Delhi,Tablet,Organic
+708,2025-05-15,Bangalore,Mobile,Organic
+709,2025-01-02,Kolkata,Mobile,Google Ads
+710,2025-01-18,Delhi,Mobile,Google Ads
+711,2025-05-10,Ahmedabad,Desktop,Organic
+712,2025-06-08,Kochi,Desktop,LinkedIn
+713,2025-01-05,Bangalore,Tablet,Referral
+714,2025-04-16,Bangalore,Mobile,Referral
+715,2025-03-12,Jaipur,Desktop,Organic
+716,2025-05-09,Kolkata,Mobile,Organic
+717,2025-01-25,Jaipur,Mobile,Google Ads
+718,2025-02-19,Kochi,Tablet,Instagram
+719,2025-04-01,Hyderabad,Desktop,Organic
+720,2025-04-06,Kolkata,Desktop,Referral
+721,2025-03-04,Chennai,Desktop,Organic
+722,2025-06-17,Bangalore,Mobile,LinkedIn
+723,2025-04-08,Kolkata,Tablet,LinkedIn
+724,2025-01-15,Bangalore,Tablet,Google Ads
+725,2025-01-22,Ahmedabad,Desktop,Instagram
+726,2025-05-25,Mumbai,Tablet,Organic
+727,2025-02-28,Chennai,Tablet,Referral
+728,2025-05-02,Hyderabad,Mobile,Organic
+729,2025-06-25,Hyderabad,Tablet,Referral
+730,2025-06-18,Bangalore,Mobile,Instagram
+731,2025-01-05,Chennai,Tablet,Google Ads
+732,2025-04-12,Mumbai,Desktop,Google Ads
+733,2025-05-25,Chennai,Tablet,LinkedIn
+734,2025-06-23,Jaipur,Desktop,LinkedIn
+735,2025-02-05,Mumbai,Tablet,Instagram
+736,2025-01-14,Mumbai,Desktop,Google Ads
+737,2025-01-20,Pune,Tablet,Referral
+738,2025-06-02,Kolkata,Desktop,Organic
+739,2025-06-12,Hyderabad,Desktop,LinkedIn
+740,2025-02-28,Pune,Tablet,LinkedIn
+741,2025-04-21,Delhi,Tablet,Referral
+742,2025-06-19,Kolkata,Mobile,Referral
+743,2025-03-17,Chennai,Tablet,Organic
+744,2025-01-22,Hyderabad,Mobile,LinkedIn
+745,2025-06-12,Delhi,Tablet,LinkedIn
+746,2025-03-23,Pune,Mobile,Organic
+747,2025-01-02,Hyderabad,Desktop,Instagram
+748,2025-03-11,Mumbai,Mobile,Organic
+749,2025-02-17,Kolkata,Desktop,Referral
+750,2025-05-23,Jaipur,Desktop,Organic
+751,2025-01-07,Mumbai,Desktop,Referral
+752,2025-01-24,Kochi,Tablet,Instagram
+753,2025-04-09,Bangalore,Desktop,LinkedIn
+754,2025-04-10,Mumbai,Tablet,Referral
+755,2025-03-04,Kochi,Tablet,Google Ads
+756,2025-06-25,Kolkata,Mobile,Google Ads
+757,2025-03-10,Hyderabad,Desktop,LinkedIn
+758,2025-02-07,Mumbai,Mobile,LinkedIn
+759,2025-03-12,Kolkata,Desktop,LinkedIn
+760,2025-01-20,Pune,Desktop,Google Ads
+761,2025-06-10,Ahmedabad,Tablet,Referral
+762,2025-02-20,Ahmedabad,Mobile,Google Ads
+763,2025-03-19,Bangalore,Desktop,Instagram
+764,2025-06-08,Kolkata,Desktop,LinkedIn
+765,2025-03-27,Kolkata,Tablet,Referral
+766,2025-02-04,Hyderabad,Desktop,Referral
+767,2025-06-27,Chennai,Desktop,Instagram
+768,2025-02-15,Kolkata,Desktop,Instagram
+769,2025-06-27,Ahmedabad,Tablet,Google Ads
+770,2025-03-25,Kolkata,Desktop,LinkedIn
+771,2025-04-04,Mumbai,Tablet,Google Ads
+772,2025-06-01,Jaipur,Mobile,Referral
+773,2025-01-07,Ahmedabad,Tablet,Google Ads
+774,2025-04-23,Hyderabad,Tablet,Organic
+775,2025-04-15,Ahmedabad,Mobile,Instagram
+776,2025-03-03,Hyderabad,Tablet,Google Ads
+777,2025-04-19,Kolkata,Mobile,LinkedIn
+778,2025-06-03,Ahmedabad,Tablet,LinkedIn
+779,2025-05-17,Jaipur,Tablet,LinkedIn
+780,2025-05-20,Bangalore,Desktop,Referral
+781,2025-06-02,Mumbai,Mobile,Google Ads
+782,2025-06-18,Pune,Mobile,Referral
+783,2025-01-12,Kochi,Tablet,LinkedIn
+784,2025-03-26,Kolkata,Mobile,Organic
+785,2025-01-26,Hyderabad,Mobile,Referral
+786,2025-05-13,Jaipur,Tablet,Referral
+787,2025-02-26,Ahmedabad,Desktop,LinkedIn
+788,2025-04-29,Kochi,Tablet,Referral
+789,2025-02-08,Pune,Mobile,LinkedIn
+790,2025-01-27,Hyderabad,Desktop,Organic
+791,2025-01-30,Delhi,Desktop,Instagram
+792,2025-03-29,Ahmedabad,Mobile,Referral
+793,2025-05-04,Pune,Desktop,Organic
+794,2025-04-23,Ahmedabad,Desktop,Organic
+795,2025-03-18,Bangalore,Tablet,Organic
+796,2025-01-06,Pune,Tablet,Organic
+797,2025-06-23,Delhi,Tablet,Google Ads
+798,2025-05-13,Delhi,Tablet,Google Ads
+799,2025-03-26,Jaipur,Desktop,LinkedIn
+800,2025-03-01,Kolkata,Tablet,Google Ads
+801,2025-02-17,Kolkata,Desktop,Organic
+802,2025-06-07,Chennai,Desktop,Referral
+803,2025-04-20,Kolkata,Mobile,Google Ads
+804,2025-02-22,Hyderabad,Tablet,Organic
+805,2025-05-28,Mumbai,Tablet,Google Ads
+806,2025-04-04,Pune,Mobile,LinkedIn
+807,2025-01-30,Hyderabad,Tablet,LinkedIn
+808,2025-05-16,Pune,Tablet,LinkedIn
+809,2025-06-06,Kolkata,Tablet,Organic
+810,2025-03-31,Pune,Desktop,Referral
+811,2025-02-14,Hyderabad,Tablet,Referral
+812,2025-01-22,Delhi,Desktop,Organic
+813,2025-03-03,Hyderabad,Mobile,Google Ads
+814,2025-04-06,Delhi,Tablet,LinkedIn
+815,2025-04-18,Kochi,Mobile,Referral
+816,2025-04-09,Kolkata,Mobile,LinkedIn
+817,2025-06-12,Jaipur,Tablet,Google Ads
+818,2025-05-23,Delhi,Desktop,Instagram
+819,2025-02-05,Delhi,Desktop,LinkedIn
+820,2025-06-08,Bangalore,Desktop,Organic
+821,2025-05-05,Delhi,Mobile,LinkedIn
+822,2025-05-24,Jaipur,Tablet,LinkedIn
+823,2025-04-15,Ahmedabad,Desktop,LinkedIn
+824,2025-05-06,Delhi,Mobile,Referral
+825,2025-01-08,Chennai,Desktop,Organic
+826,2025-03-12,Chennai,Tablet,Instagram
+827,2025-02-13,Ahmedabad,Tablet,LinkedIn
+828,2025-05-21,Jaipur,Mobile,Referral
+829,2025-01-30,Hyderabad,Tablet,Instagram
+830,2025-05-19,Bangalore,Tablet,LinkedIn
+831,2025-05-20,Chennai,Desktop,Organic
+832,2025-06-17,Chennai,Desktop,Organic
+833,2025-04-26,Hyderabad,Desktop,Organic
+834,2025-04-23,Mumbai,Mobile,Google Ads
+835,2025-05-31,Pune,Tablet,Referral
+836,2025-06-11,Kolkata,Mobile,Referral
+837,2025-02-05,Chennai,Mobile,Organic
+838,2025-05-26,Pune,Tablet,Instagram
+839,2025-06-02,Jaipur,Mobile,Instagram
+840,2025-06-30,Hyderabad,Desktop,Referral
+841,2025-03-10,Jaipur,Tablet,Organic
+842,2025-02-04,Kolkata,Mobile,Instagram
+843,2025-06-17,Delhi,Tablet,Google Ads
+844,2025-03-05,Delhi,Tablet,Instagram
+845,2025-03-05,Kolkata,Desktop,Google Ads
+846,2025-05-28,Hyderabad,Tablet,LinkedIn
+847,2025-04-07,Ahmedabad,Mobile,Organic
+848,2025-04-14,Jaipur,Tablet,Instagram
+849,2025-06-27,Pune,Desktop,LinkedIn
+850,2025-03-25,Kochi,Mobile,Organic
+851,2025-04-28,Pune,Mobile,Referral
+852,2025-04-12,Chennai,Desktop,Google Ads
+853,2025-05-07,Hyderabad,Desktop,Instagram
+854,2025-03-28,Jaipur,Tablet,Google Ads
+855,2025-05-25,Ahmedabad,Desktop,Organic
+856,2025-01-12,Mumbai,Tablet,LinkedIn
+857,2025-01-05,Mumbai,Mobile,LinkedIn
+858,2025-04-27,Bangalore,Desktop,Google Ads
+859,2025-06-26,Delhi,Tablet,Instagram
+860,2025-02-10,Hyderabad,Mobile,Instagram
+861,2025-03-06,Mumbai,Desktop,Google Ads
+862,2025-01-14,Kolkata,Tablet,Instagram
+863,2025-06-29,Chennai,Desktop,Organic
+864,2025-06-30,Mumbai,Mobile,Google Ads
+865,2025-05-03,Mumbai,Mobile,Referral
+866,2025-02-27,Jaipur,Tablet,LinkedIn
+867,2025-01-03,Bangalore,Tablet,Instagram
+868,2025-01-31,Kolkata,Tablet,Google Ads
+869,2025-05-03,Mumbai,Mobile,LinkedIn
+870,2025-01-23,Mumbai,Mobile,Instagram
+871,2025-04-05,Hyderabad,Mobile,LinkedIn
+872,2025-02-04,Delhi,Mobile,Referral
+873,2025-05-25,Bangalore,Tablet,Google Ads
+874,2025-04-23,Pune,Tablet,Google Ads
+875,2025-06-10,Delhi,Desktop,Referral
+876,2025-06-25,Ahmedabad,Mobile,Organic
+877,2025-01-26,Delhi,Mobile,Referral
+878,2025-04-09,Pune,Desktop,Instagram
+879,2025-02-05,Chennai,Desktop,Organic
+880,2025-03-05,Jaipur,Tablet,Referral
+881,2025-06-05,Hyderabad,Tablet,Organic
+882,2025-06-18,Hyderabad,Mobile,Referral
+883,2025-06-05,Jaipur,Mobile,LinkedIn
+884,2025-03-17,Bangalore,Mobile,LinkedIn
+885,2025-04-09,Mumbai,Mobile,LinkedIn
+886,2025-06-13,Kochi,Mobile,Referral
+887,2025-01-04,Pune,Desktop,Google Ads
+888,2025-04-10,Kochi,Desktop,Instagram
+889,2025-05-20,Delhi,Desktop,Organic
+890,2025-01-05,Kochi,Mobile,Organic
+891,2025-03-09,Chennai,Mobile,Organic
+892,2025-04-12,Jaipur,Desktop,Referral
+893,2025-04-17,Kolkata,Tablet,LinkedIn
+894,2025-01-22,Jaipur,Tablet,Referral
+895,2025-02-09,Hyderabad,Mobile,Instagram
+896,2025-01-21,Jaipur,Mobile,Google Ads
+897,2025-05-18,Pune,Desktop,Referral
+898,2025-06-12,Mumbai,Desktop,LinkedIn
+899,2025-03-03,Bangalore,Mobile,Organic
+900,2025-04-22,Mumbai,Desktop,Referral
+901,2025-06-05,Bangalore,Desktop,Google Ads
+902,2025-01-31,Bangalore,Tablet,Google Ads
+903,2025-06-29,Bangalore,Mobile,LinkedIn
+904,2025-03-30,Jaipur,Tablet,Instagram
+905,2025-02-12,Pune,Mobile,Instagram
+906,2025-01-31,Bangalore,Desktop,LinkedIn
+907,2025-03-11,Jaipur,Mobile,Instagram
+908,2025-05-28,Mumbai,Desktop,LinkedIn
+909,2025-05-11,Pune,Mobile,LinkedIn
+910,2025-05-26,Delhi,Desktop,Google Ads
+911,2025-03-07,Mumbai,Tablet,Organic
+912,2025-02-28,Jaipur,Mobile,Organic
+913,2025-01-04,Chennai,Mobile,LinkedIn
+914,2025-04-04,Kolkata,Mobile,Google Ads
+915,2025-01-10,Jaipur,Tablet,LinkedIn
+916,2025-02-27,Pune,Mobile,LinkedIn
+917,2025-03-23,Hyderabad,Mobile,Referral
+918,2025-04-06,Mumbai,Tablet,Organic
+919,2025-02-15,Chennai,Tablet,Organic
+920,2025-04-13,Mumbai,Desktop,Instagram
+921,2025-03-21,Pune,Mobile,Referral
+922,2025-04-27,Bangalore,Desktop,Google Ads
+923,2025-03-16,Kochi,Desktop,Referral
+924,2025-03-04,Ahmedabad,Desktop,Referral
+925,2025-05-07,Chennai,Tablet,Referral
+926,2025-03-04,Delhi,Mobile,LinkedIn
+927,2025-01-07,Chennai,Tablet,Instagram
+928,2025-06-12,Bangalore,Desktop,Organic
+929,2025-06-18,Kolkata,Tablet,Instagram
+930,2025-01-27,Chennai,Tablet,Google Ads
+931,2025-04-18,Ahmedabad,Mobile,Google Ads
+932,2025-03-13,Mumbai,Mobile,Google Ads
+933,2025-05-14,Kolkata,Tablet,Instagram
+934,2025-04-28,Mumbai,Tablet,Organic
+935,2025-05-10,Delhi,Tablet,LinkedIn
+936,2025-01-20,Kochi,Tablet,Organic
+937,2025-04-22,Delhi,Mobile,Instagram
+938,2025-03-08,Pune,Desktop,Instagram
+939,2025-03-23,Ahmedabad,Desktop,Google Ads
+940,2025-01-20,Chennai,Mobile,Referral
+941,2025-01-28,Delhi,Mobile,Google Ads
+942,2025-04-26,Ahmedabad,Desktop,LinkedIn
+943,2025-01-31,Jaipur,Desktop,Google Ads
+944,2025-04-26,Hyderabad,Desktop,Instagram
+945,2025-01-31,Mumbai,Mobile,Instagram
+946,2025-06-30,Kochi,Mobile,Google Ads
+947,2025-03-25,Delhi,Mobile,Google Ads
+948,2025-04-02,Kolkata,Tablet,Organic
+949,2025-06-23,Hyderabad,Desktop,Google Ads
+950,2025-01-08,Kolkata,Desktop,Referral
+951,2025-05-21,Chennai,Mobile,LinkedIn
+952,2025-01-27,Delhi,Mobile,Organic
+953,2025-01-16,Chennai,Mobile,Google Ads
+954,2025-04-13,Pune,Tablet,Organic
+955,2025-05-30,Kochi,Desktop,Organic
+956,2025-01-06,Mumbai,Mobile,LinkedIn
+957,2025-02-02,Mumbai,Desktop,Organic
+958,2025-01-11,Ahmedabad,Mobile,Google Ads
+959,2025-05-27,Kolkata,Tablet,LinkedIn
+960,2025-05-08,Bangalore,Desktop,LinkedIn
+961,2025-02-14,Pune,Mobile,Google Ads
+962,2025-03-12,Hyderabad,Desktop,Google Ads
+963,2025-01-09,Kochi,Tablet,Referral
+964,2025-03-04,Hyderabad,Desktop,LinkedIn
+965,2025-05-21,Ahmedabad,Mobile,Organic
+966,2025-03-13,Kolkata,Mobile,LinkedIn
+967,2025-02-21,Jaipur,Mobile,Referral
+968,2025-01-05,Kolkata,Tablet,Instagram
+969,2025-05-03,Jaipur,Desktop,Instagram
+970,2025-05-25,Jaipur,Desktop,LinkedIn
+971,2025-03-11,Delhi,Mobile,Instagram
+972,2025-06-02,Chennai,Mobile,Instagram
+973,2025-01-15,Ahmedabad,Tablet,Instagram
+974,2025-05-30,Chennai,Mobile,Organic
+975,2025-03-05,Chennai,Desktop,Referral
+976,2025-01-15,Chennai,Tablet,LinkedIn
+977,2025-04-01,Delhi,Mobile,Google Ads
+978,2025-06-01,Pune,Tablet,Instagram
+979,2025-06-01,Bangalore,Tablet,Instagram
+980,2025-05-26,Kochi,Mobile,Referral
+981,2025-02-18,Ahmedabad,Tablet,Instagram
+982,2025-02-14,Ahmedabad,Mobile,Organic
+983,2025-01-15,Chennai,Tablet,Google Ads
+984,2025-01-06,Jaipur,Desktop,Organic
+985,2025-03-26,Kochi,Mobile,Google Ads
+986,2025-03-29,Delhi,Desktop,Organic
+987,2025-01-06,Delhi,Tablet,Google Ads
+988,2025-01-29,Jaipur,Desktop,Organic
+989,2025-04-06,Kolkata,Tablet,Organic
+990,2025-03-28,Hyderabad,Desktop,Google Ads
+991,2025-02-10,Kolkata,Tablet,LinkedIn
+992,2025-06-16,Pune,Mobile,Referral
+993,2025-06-27,Kochi,Desktop,Google Ads
+994,2025-06-20,Kochi,Mobile,LinkedIn
+995,2025-03-20,Hyderabad,Mobile,Google Ads
+996,2025-01-01,Kochi,Desktop,Referral
+997,2025-01-09,Delhi,Tablet,Instagram
+998,2025-06-06,Chennai,Tablet,Referral
+999,2025-01-27,Ahmedabad,Mobile,Instagram
+1000,2025-01-20,Chennai,Desktop,Instagram
+1001,2025-02-12,Mumbai,Tablet,Instagram
+1002,2025-04-25,Bangalore,Desktop,Google Ads
+1003,2025-03-05,Mumbai,Desktop,Instagram
+1004,2025-01-28,Bangalore,Mobile,LinkedIn
+1005,2025-04-23,Kolkata,Mobile,LinkedIn
+1006,2025-05-07,Kolkata,Desktop,Referral
+1007,2025-04-07,Mumbai,Desktop,Referral
+1008,2025-06-16,Chennai,Mobile,LinkedIn
+1009,2025-01-19,Bangalore,Desktop,Organic
+1010,2025-03-23,Hyderabad,Mobile,Organic
+1011,2025-03-29,Delhi,Desktop,Google Ads
+1012,2025-01-20,Jaipur,Mobile,Instagram
+1013,2025-06-02,Kochi,Desktop,Organic
+1014,2025-04-21,Delhi,Tablet,LinkedIn
+1015,2025-02-10,Bangalore,Mobile,Instagram
+1016,2025-02-22,Chennai,Desktop,Referral
+1017,2025-05-19,Hyderabad,Tablet,Instagram
+1018,2025-03-18,Chennai,Mobile,Organic
+1019,2025-04-11,Kochi,Tablet,LinkedIn
+1020,2025-02-09,Bangalore,Desktop,Organic
+1021,2025-04-20,Mumbai,Desktop,Referral
+1022,2025-05-03,Chennai,Mobile,Organic
+1023,2025-02-22,Delhi,Tablet,Instagram
+1024,2025-01-21,Ahmedabad,Mobile,Instagram
+1025,2025-04-12,Ahmedabad,Desktop,Instagram
+1026,2025-01-24,Jaipur,Desktop,Google Ads
+1027,2025-04-05,Kolkata,Desktop,Google Ads
+1028,2025-04-25,Bangalore,Desktop,LinkedIn
+1029,2025-04-30,Hyderabad,Mobile,Instagram
+1030,2025-05-25,Bangalore,Mobile,Organic
+1031,2025-01-22,Pune,Tablet,LinkedIn
+1032,2025-05-31,Chennai,Tablet,Organic
+1033,2025-04-10,Jaipur,Desktop,Referral
+1034,2025-06-25,Ahmedabad,Tablet,Google Ads
+1035,2025-05-02,Hyderabad,Mobile,LinkedIn
+1036,2025-01-09,Jaipur,Tablet,Referral
+1037,2025-05-27,Kochi,Mobile,Organic
+1038,2025-04-25,Delhi,Mobile,Google Ads
+1039,2025-02-19,Delhi,Mobile,LinkedIn
+1040,2025-01-21,Kolkata,Mobile,Google Ads
+1041,2025-06-02,Hyderabad,Desktop,Organic
+1042,2025-01-23,Kolkata,Tablet,LinkedIn
+1043,2025-05-22,Pune,Desktop,Referral
+1044,2025-04-28,Bangalore,Tablet,Referral
+1045,2025-05-31,Jaipur,Desktop,Organic
+1046,2025-04-17,Delhi,Mobile,Referral
+1047,2025-05-31,Kochi,Mobile,Organic
+1048,2025-05-25,Mumbai,Desktop,Referral
+1049,2025-03-30,Kolkata,Desktop,LinkedIn
+1050,2025-06-17,Ahmedabad,Tablet,Referral
+1051,2025-05-02,Bangalore,Mobile,Instagram
+1052,2025-04-14,Delhi,Tablet,Referral
+1053,2025-06-24,Kolkata,Mobile,LinkedIn
+1054,2025-03-26,Chennai,Mobile,LinkedIn
+1055,2025-03-10,Pune,Mobile,Instagram
+1056,2025-03-19,Hyderabad,Desktop,LinkedIn
+1057,2025-06-28,Mumbai,Mobile,Google Ads
+1058,2025-03-18,Ahmedabad,Desktop,Instagram
+1059,2025-04-17,Kochi,Tablet,Organic
+1060,2025-02-18,Ahmedabad,Mobile,LinkedIn
+1061,2025-05-05,Jaipur,Desktop,Organic
+1062,2025-05-12,Delhi,Mobile,Instagram
+1063,2025-05-10,Kolkata,Mobile,Referral
+1064,2025-05-26,Bangalore,Mobile,Google Ads
+1065,2025-02-21,Bangalore,Mobile,Organic
+1066,2025-04-27,Bangalore,Desktop,Google Ads
+1067,2025-03-12,Pune,Desktop,Referral
+1068,2025-04-12,Mumbai,Tablet,Organic
+1069,2025-03-03,Pune,Desktop,Referral
+1070,2025-04-25,Delhi,Desktop,Referral
+1071,2025-05-22,Pune,Desktop,Google Ads
+1072,2025-03-08,Mumbai,Desktop,Organic
+1073,2025-04-09,Bangalore,Mobile,Referral
+1074,2025-02-24,Chennai,Tablet,Google Ads
+1075,2025-06-23,Chennai,Desktop,LinkedIn
+1076,2025-05-12,Bangalore,Tablet,Organic
+1077,2025-05-02,Delhi,Tablet,Google Ads
+1078,2025-06-03,Bangalore,Mobile,Instagram
+1079,2025-06-05,Hyderabad,Tablet,Instagram
+1080,2025-04-19,Kolkata,Desktop,LinkedIn
+1081,2025-03-06,Chennai,Desktop,Instagram
+1082,2025-06-23,Jaipur,Tablet,LinkedIn
+1083,2025-05-30,Mumbai,Mobile,Referral
+1084,2025-06-19,Pune,Tablet,Referral
+1085,2025-06-05,Hyderabad,Desktop,Organic
+1086,2025-05-04,Mumbai,Desktop,Instagram
+1087,2025-06-13,Pune,Desktop,Instagram
+1088,2025-06-17,Hyderabad,Mobile,Google Ads
+1089,2025-05-13,Chennai,Mobile,Referral
+1090,2025-04-14,Pune,Tablet,Google Ads
+1091,2025-01-07,Ahmedabad,Desktop,Instagram
+1092,2025-04-18,Kolkata,Desktop,Organic
+1093,2025-05-30,Kochi,Mobile,Instagram
+1094,2025-02-26,Jaipur,Tablet,LinkedIn
+1095,2025-06-21,Pune,Tablet,Instagram
+1096,2025-02-13,Jaipur,Mobile,Instagram
+1097,2025-01-25,Ahmedabad,Mobile,Instagram
+1098,2025-05-24,Delhi,Tablet,Instagram
+1099,2025-06-17,Mumbai,Mobile,Instagram
+1100,2025-02-27,Hyderabad,Desktop,Instagram
+1101,2025-04-06,Hyderabad,Tablet,Instagram
+1102,2025-04-29,Mumbai,Desktop,Organic
+1103,2025-06-12,Kochi,Tablet,Referral
+1104,2025-01-19,Ahmedabad,Mobile,Referral
+1105,2025-01-31,Kolkata,Tablet,Instagram
+1106,2025-04-16,Bangalore,Mobile,Google Ads
+1107,2025-02-21,Pune,Desktop,Referral
+1108,2025-04-28,Delhi,Desktop,Google Ads
+1109,2025-01-21,Ahmedabad,Desktop,Google Ads
+1110,2025-03-22,Bangalore,Mobile,LinkedIn
+1111,2025-03-12,Chennai,Mobile,Referral
+1112,2025-02-10,Ahmedabad,Mobile,Google Ads
+1113,2025-06-07,Kolkata,Tablet,LinkedIn
+1114,2025-04-14,Kolkata,Desktop,LinkedIn
+1115,2025-01-02,Bangalore,Tablet,Google Ads
+1116,2025-04-06,Bangalore,Desktop,Referral
+1117,2025-02-18,Bangalore,Tablet,Organic
+1118,2025-06-10,Chennai,Mobile,Instagram
+1119,2025-03-21,Delhi,Mobile,LinkedIn
+1120,2025-05-09,Kochi,Desktop,Google Ads
+1121,2025-01-17,Bangalore,Desktop,Instagram
+1122,2025-04-27,Jaipur,Tablet,Referral
+1123,2025-03-28,Kolkata,Tablet,Google Ads
+1124,2025-03-29,Ahmedabad,Desktop,Google Ads
+1125,2025-02-12,Kolkata,Mobile,Google Ads
+1126,2025-02-27,Delhi,Mobile,Organic
+1127,2025-05-31,Jaipur,Mobile,Organic
+1128,2025-04-04,Bangalore,Desktop,Instagram
+1129,2025-05-17,Kochi,Mobile,Referral
+1130,2025-01-13,Mumbai,Tablet,Organic
+1131,2025-01-13,Mumbai,Desktop,LinkedIn
+1132,2025-04-08,Mumbai,Tablet,Instagram
+1133,2025-05-02,Delhi,Mobile,Organic
+1134,2025-03-19,Kolkata,Tablet,Organic
+1135,2025-06-19,Jaipur,Desktop,Referral
+1136,2025-06-05,Delhi,Desktop,Organic
+1137,2025-05-11,Kochi,Mobile,Instagram
+1138,2025-01-30,Mumbai,Desktop,Google Ads
+1139,2025-06-05,Chennai,Desktop,Referral
+1140,2025-02-21,Pune,Tablet,LinkedIn
+1141,2025-03-17,Delhi,Mobile,Referral
+1142,2025-05-08,Chennai,Tablet,LinkedIn
+1143,2025-03-26,Chennai,Mobile,Organic
+1144,2025-06-21,Mumbai,Mobile,Referral
+1145,2025-06-21,Ahmedabad,Mobile,Organic
+1146,2025-05-11,Mumbai,Tablet,Organic
+1147,2025-03-07,Chennai,Desktop,Instagram
+1148,2025-03-09,Ahmedabad,Mobile,Organic
+1149,2025-02-14,Bangalore,Desktop,Instagram
+1150,2025-06-23,Pune,Desktop,Organic
+1151,2025-01-25,Bangalore,Mobile,Google Ads
+1152,2025-06-19,Delhi,Desktop,Instagram
+1153,2025-04-23,Kochi,Desktop,Organic
+1154,2025-04-06,Pune,Mobile,Organic
+1155,2025-04-13,Kolkata,Desktop,Instagram
+1156,2025-04-09,Ahmedabad,Desktop,Google Ads
+1157,2025-01-29,Delhi,Tablet,Organic
+1158,2025-02-10,Mumbai,Desktop,Referral
+1159,2025-05-04,Kochi,Tablet,LinkedIn
+1160,2025-02-16,Kochi,Desktop,Instagram
+1161,2025-06-06,Bangalore,Tablet,Google Ads
+1162,2025-05-04,Ahmedabad,Mobile,LinkedIn
+1163,2025-04-23,Bangalore,Mobile,Instagram
+1164,2025-06-17,Pune,Mobile,Referral
+1165,2025-05-28,Kochi,Mobile,Instagram
+1166,2025-05-13,Jaipur,Tablet,Referral
+1167,2025-01-25,Kolkata,Tablet,Google Ads
+1168,2025-05-04,Pune,Tablet,LinkedIn
+1169,2025-02-08,Jaipur,Tablet,Organic
+1170,2025-01-03,Delhi,Tablet,LinkedIn
+1171,2025-05-07,Delhi,Mobile,LinkedIn
+1172,2025-03-24,Chennai,Desktop,Instagram
+1173,2025-01-13,Jaipur,Mobile,Referral
+1174,2025-06-14,Kolkata,Desktop,Google Ads
+1175,2025-01-21,Ahmedabad,Desktop,Referral
+1176,2025-04-25,Mumbai,Desktop,LinkedIn
+1177,2025-03-22,Mumbai,Desktop,Organic
+1178,2025-01-27,Kolkata,Desktop,Organic
+1179,2025-05-23,Jaipur,Mobile,Organic
+1180,2025-06-04,Kochi,Tablet,Instagram
+1181,2025-05-11,Jaipur,Mobile,LinkedIn
+1182,2025-03-29,Pune,Mobile,Google Ads
+1183,2025-04-27,Pune,Tablet,Referral
+1184,2025-06-03,Ahmedabad,Tablet,Instagram
+1185,2025-04-26,Mumbai,Mobile,Google Ads
+1186,2025-01-01,Pune,Desktop,Instagram
+1187,2025-05-21,Jaipur,Desktop,Organic
+1188,2025-01-12,Delhi,Desktop,Google Ads
+1189,2025-04-15,Mumbai,Desktop,Referral
+1190,2025-02-20,Chennai,Mobile,LinkedIn
+1191,2025-02-25,Ahmedabad,Mobile,Instagram
+1192,2025-01-28,Kolkata,Mobile,Referral
+1193,2025-02-01,Ahmedabad,Desktop,Referral
+1194,2025-05-10,Delhi,Desktop,Organic
+1195,2025-05-16,Bangalore,Tablet,LinkedIn
+1196,2025-05-30,Ahmedabad,Tablet,Google Ads
+1197,2025-06-27,Kochi,Mobile,Google Ads
+1198,2025-01-27,Kolkata,Tablet,Referral
+1199,2025-06-05,Pune,Tablet,LinkedIn
+1200,2025-04-18,Kochi,Tablet,Google Ads
+1201,2025-03-12,Kolkata,Desktop,Instagram
+1202,2025-04-26,Delhi,Mobile,LinkedIn
+1203,2025-06-04,Jaipur,Desktop,Referral
+1204,2025-03-22,Jaipur,Tablet,Google Ads
+1205,2025-02-21,Chennai,Tablet,Instagram
+1206,2025-06-25,Pune,Tablet,Google Ads
+1207,2025-06-16,Delhi,Tablet,Referral
+1208,2025-06-27,Pune,Tablet,Organic
+1209,2025-04-01,Jaipur,Desktop,Referral
+1210,2025-05-27,Kolkata,Tablet,Referral
+1211,2025-03-15,Kolkata,Mobile,Referral
+1212,2025-01-28,Bangalore,Desktop,Google Ads
+1213,2025-01-14,Bangalore,Mobile,Instagram
+1214,2025-02-11,Hyderabad,Tablet,Instagram
+1215,2025-02-07,Bangalore,Tablet,Instagram
+1216,2025-02-22,Jaipur,Mobile,Instagram
+1217,2025-04-26,Mumbai,Tablet,Referral
+1218,2025-02-27,Jaipur,Desktop,Google Ads
+1219,2025-05-11,Hyderabad,Tablet,Organic
+1220,2025-04-08,Kolkata,Desktop,Instagram
+1221,2025-05-22,Bangalore,Mobile,Instagram
+1222,2025-02-21,Kochi,Desktop,Google Ads
+1223,2025-06-12,Pune,Tablet,Referral
+1224,2025-06-04,Chennai,Tablet,Google Ads
+1225,2025-03-17,Ahmedabad,Mobile,Organic
+1226,2025-02-17,Delhi,Tablet,Referral
+1227,2025-01-31,Kolkata,Mobile,LinkedIn
+1228,2025-03-13,Jaipur,Desktop,Google Ads
+1229,2025-02-11,Kochi,Desktop,Organic
+1230,2025-03-26,Ahmedabad,Tablet,Google Ads
+1231,2025-01-11,Delhi,Desktop,Referral
+1232,2025-01-14,Kochi,Tablet,Instagram
+1233,2025-05-06,Kochi,Tablet,Instagram
+1234,2025-01-19,Pune,Tablet,Google Ads
+1235,2025-02-17,Jaipur,Mobile,Referral
+1236,2025-02-10,Kolkata,Tablet,Referral
+1237,2025-04-14,Mumbai,Desktop,Google Ads
+1238,2025-02-24,Pune,Desktop,Instagram
+1239,2025-03-17,Chennai,Tablet,Referral
+1240,2025-05-02,Jaipur,Tablet,Organic
+1241,2025-01-30,Pune,Desktop,Google Ads
+1242,2025-06-14,Kochi,Tablet,Google Ads
+1243,2025-01-11,Pune,Desktop,Organic
+1244,2025-04-09,Hyderabad,Tablet,Instagram
+1245,2025-01-07,Jaipur,Desktop,Referral
+1246,2025-05-11,Ahmedabad,Desktop,Organic
+1247,2025-03-17,Chennai,Desktop,Referral
+1248,2025-01-22,Mumbai,Mobile,Referral
+1249,2025-05-17,Bangalore,Tablet,Organic
+1250,2025-02-23,Chennai,Tablet,LinkedIn
+1251,2025-01-27,Chennai,Tablet,LinkedIn
+1252,2025-06-15,Mumbai,Tablet,Google Ads
+1253,2025-01-07,Ahmedabad,Tablet,Instagram
+1254,2025-01-10,Mumbai,Mobile,Organic
+1255,2025-02-15,Hyderabad,Tablet,Organic
+1256,2025-05-28,Chennai,Desktop,LinkedIn
+1257,2025-04-10,Ahmedabad,Tablet,LinkedIn
+1258,2025-04-21,Pune,Mobile,LinkedIn
+1259,2025-06-22,Mumbai,Tablet,Organic
+1260,2025-06-14,Kochi,Mobile,Referral
+1261,2025-01-12,Mumbai,Desktop,Referral
+1262,2025-01-28,Hyderabad,Tablet,Instagram
+1263,2025-06-05,Mumbai,Desktop,LinkedIn
+1264,2025-04-08,Kolkata,Tablet,Organic
+1265,2025-05-02,Delhi,Tablet,Google Ads
+1266,2025-02-04,Kolkata,Tablet,Instagram
+1267,2025-06-12,Delhi,Desktop,Instagram
+1268,2025-01-03,Jaipur,Tablet,Google Ads
+1269,2025-02-01,Bangalore,Mobile,Referral
+1270,2025-06-02,Kolkata,Tablet,Referral
+1271,2025-01-22,Hyderabad,Mobile,Instagram
+1272,2025-02-24,Kolkata,Tablet,Referral
+1273,2025-02-06,Delhi,Mobile,Google Ads
+1274,2025-06-07,Hyderabad,Mobile,Organic
+1275,2025-02-16,Kochi,Mobile,Referral
+1276,2025-04-29,Jaipur,Mobile,Instagram
+1277,2025-06-21,Mumbai,Desktop,Organic
+1278,2025-02-20,Kochi,Desktop,Instagram
+1279,2025-04-02,Delhi,Tablet,Google Ads
+1280,2025-01-26,Hyderabad,Tablet,Organic
+1281,2025-02-19,Pune,Desktop,LinkedIn
+1282,2025-03-26,Kochi,Tablet,Instagram
+1283,2025-06-27,Kochi,Mobile,Referral
+1284,2025-05-26,Pune,Desktop,LinkedIn
+1285,2025-02-13,Bangalore,Desktop,Google Ads
+1286,2025-02-26,Kolkata,Desktop,Instagram
+1287,2025-02-04,Pune,Desktop,LinkedIn
+1288,2025-04-25,Pune,Desktop,LinkedIn
+1289,2025-05-22,Mumbai,Mobile,Referral
+1290,2025-01-21,Hyderabad,Mobile,Referral
+1291,2025-02-20,Hyderabad,Tablet,Organic
+1292,2025-01-20,Bangalore,Tablet,Organic
+1293,2025-05-29,Kochi,Desktop,Referral
+1294,2025-02-24,Bangalore,Tablet,Instagram
+1295,2025-05-20,Jaipur,Desktop,Google Ads
+1296,2025-04-04,Kolkata,Mobile,Referral
+1297,2025-03-16,Delhi,Desktop,Referral
+1298,2025-05-11,Mumbai,Desktop,Instagram
+1299,2025-05-09,Bangalore,Tablet,Google Ads
+1300,2025-06-07,Delhi,Tablet,Google Ads
+1301,2025-04-25,Delhi,Mobile,Referral
+1302,2025-05-25,Delhi,Tablet,LinkedIn
+1303,2025-04-02,Bangalore,Mobile,LinkedIn
+1304,2025-03-01,Mumbai,Desktop,Instagram
+1305,2025-03-01,Bangalore,Tablet,Google Ads
+1306,2025-05-13,Pune,Desktop,LinkedIn
+1307,2025-04-27,Bangalore,Mobile,Instagram
+1308,2025-01-27,Jaipur,Tablet,Instagram
+1309,2025-03-09,Kochi,Tablet,Referral
+1310,2025-02-14,Kolkata,Tablet,LinkedIn
+1311,2025-04-04,Kochi,Tablet,Organic
+1312,2025-05-13,Hyderabad,Desktop,Google Ads
+1313,2025-05-13,Kolkata,Desktop,Instagram
+1314,2025-05-05,Ahmedabad,Tablet,Organic
+1315,2025-05-09,Delhi,Desktop,Google Ads
+1316,2025-02-28,Mumbai,Tablet,Instagram
+1317,2025-02-24,Delhi,Mobile,Google Ads
+1318,2025-04-03,Kochi,Tablet,Organic
+1319,2025-06-19,Chennai,Desktop,Instagram
+1320,2025-01-30,Ahmedabad,Tablet,LinkedIn
+1321,2025-05-03,Chennai,Tablet,Google Ads
+1322,2025-06-15,Kolkata,Mobile,Google Ads
+1323,2025-01-12,Delhi,Tablet,Referral
+1324,2025-02-11,Delhi,Tablet,Referral
+1325,2025-01-11,Kochi,Mobile,Organic
+1326,2025-02-12,Hyderabad,Mobile,Referral
+1327,2025-04-14,Kochi,Tablet,Organic
+1328,2025-06-19,Hyderabad,Mobile,Google Ads
+1329,2025-04-25,Kochi,Desktop,LinkedIn
+1330,2025-02-13,Chennai,Desktop,Referral
+1331,2025-02-06,Kochi,Mobile,Referral
+1332,2025-06-18,Jaipur,Desktop,Google Ads
+1333,2025-06-25,Pune,Desktop,Referral
+1334,2025-06-01,Mumbai,Mobile,LinkedIn
+1335,2025-04-09,Delhi,Mobile,Organic
+1336,2025-02-21,Jaipur,Tablet,LinkedIn
+1337,2025-02-08,Kochi,Mobile,Google Ads
+1338,2025-05-02,Kochi,Tablet,Organic
+1339,2025-05-17,Jaipur,Mobile,Organic
+1340,2025-05-04,Delhi,Tablet,Referral
+1341,2025-01-01,Kolkata,Tablet,LinkedIn
+1342,2025-04-05,Bangalore,Tablet,Referral
+1343,2025-04-20,Chennai,Desktop,LinkedIn
+1344,2025-03-31,Kochi,Tablet,Referral
+1345,2025-01-26,Kolkata,Mobile,Instagram
+1346,2025-05-03,Chennai,Mobile,Instagram
+1347,2025-06-03,Jaipur,Desktop,Instagram
+1348,2025-02-18,Bangalore,Tablet,Organic
+1349,2025-05-28,Jaipur,Mobile,Referral
+1350,2025-01-02,Kolkata,Tablet,Google Ads
+1351,2025-06-26,Pune,Desktop,Instagram
+1352,2025-01-28,Delhi,Desktop,Referral
+1353,2025-03-06,Hyderabad,Tablet,LinkedIn
+1354,2025-05-25,Pune,Tablet,Instagram
+1355,2025-06-24,Kolkata,Mobile,LinkedIn
+1356,2025-05-22,Jaipur,Desktop,Google Ads
+1357,2025-04-05,Jaipur,Tablet,LinkedIn
+1358,2025-03-06,Hyderabad,Tablet,Instagram
+1359,2025-06-30,Kolkata,Tablet,Google Ads
+1360,2025-06-18,Mumbai,Tablet,Google Ads
+1361,2025-04-25,Delhi,Mobile,Google Ads
+1362,2025-05-11,Kolkata,Desktop,Referral
+1363,2025-06-07,Bangalore,Mobile,LinkedIn
+1364,2025-06-12,Bangalore,Mobile,Google Ads
+1365,2025-05-01,Kochi,Desktop,Organic
+1366,2025-01-17,Hyderabad,Mobile,Instagram
+1367,2025-01-21,Kochi,Mobile,LinkedIn
+1368,2025-04-13,Kochi,Tablet,Referral
+1369,2025-03-15,Kochi,Mobile,Google Ads
+1370,2025-06-13,Ahmedabad,Desktop,Organic
+1371,2025-02-21,Jaipur,Desktop,Google Ads
+1372,2025-01-09,Kochi,Tablet,Referral
+1373,2025-06-28,Chennai,Tablet,Google Ads
+1374,2025-06-22,Bangalore,Desktop,Google Ads
+1375,2025-06-17,Bangalore,Mobile,Organic
+1376,2025-03-12,Kolkata,Desktop,LinkedIn
+1377,2025-04-14,Kochi,Mobile,Referral
+1378,2025-01-04,Mumbai,Mobile,Referral
+1379,2025-03-14,Jaipur,Tablet,Instagram
+1380,2025-03-30,Hyderabad,Mobile,Referral
+1381,2025-02-19,Ahmedabad,Desktop,Referral
+1382,2025-01-02,Hyderabad,Mobile,LinkedIn
+1383,2025-05-10,Mumbai,Tablet,Organic
+1384,2025-05-09,Hyderabad,Desktop,Organic
+1385,2025-05-12,Hyderabad,Tablet,Referral
+1386,2025-03-06,Ahmedabad,Desktop,Referral
+1387,2025-05-04,Chennai,Desktop,LinkedIn
+1388,2025-06-24,Ahmedabad,Tablet,Organic
+1389,2025-05-04,Mumbai,Desktop,Organic
+1390,2025-04-08,Chennai,Tablet,Google Ads
+1391,2025-03-22,Kolkata,Desktop,Referral
+1392,2025-05-18,Bangalore,Tablet,Instagram
+1393,2025-03-05,Hyderabad,Mobile,LinkedIn
+1394,2025-06-22,Pune,Mobile,Referral
+1395,2025-02-15,Ahmedabad,Desktop,Instagram
+1396,2025-02-25,Kochi,Desktop,Google Ads
+1397,2025-06-24,Chennai,Desktop,Google Ads
+1398,2025-03-02,Chennai,Desktop,Google Ads
+1399,2025-02-28,Chennai,Mobile,Referral
+1400,2025-04-02,Delhi,Mobile,Organic
+1401,2025-01-21,Ahmedabad,Tablet,Organic
+1402,2025-05-19,Bangalore,Desktop,Instagram
+1403,2025-06-08,Pune,Desktop,Referral
+1404,2025-03-12,Ahmedabad,Mobile,Referral
+1405,2025-03-13,Kolkata,Mobile,Referral
+1406,2025-02-02,Bangalore,Tablet,LinkedIn
+1407,2025-05-03,Jaipur,Mobile,Referral
+1408,2025-03-30,Kolkata,Tablet,Google Ads
+1409,2025-04-28,Mumbai,Tablet,Referral
+1410,2025-04-28,Pune,Tablet,Organic
+1411,2025-01-04,Chennai,Desktop,Referral
+1412,2025-01-26,Pune,Desktop,Referral
+1413,2025-03-08,Delhi,Tablet,Instagram
+1414,2025-03-02,Hyderabad,Desktop,Referral
+1415,2025-03-29,Pune,Mobile,LinkedIn
+1416,2025-04-19,Chennai,Desktop,Instagram
+1417,2025-04-04,Kolkata,Desktop,LinkedIn
+1418,2025-02-16,Kochi,Mobile,Referral
+1419,2025-06-25,Chennai,Mobile,Instagram
+1420,2025-03-02,Jaipur,Desktop,LinkedIn
+1421,2025-02-20,Delhi,Tablet,Google Ads
+1422,2025-05-02,Bangalore,Mobile,LinkedIn
+1423,2025-05-08,Delhi,Tablet,Referral
+1424,2025-05-17,Pune,Desktop,Instagram
+1425,2025-03-06,Jaipur,Tablet,Organic
+1426,2025-04-12,Mumbai,Tablet,Google Ads
+1427,2025-01-16,Chennai,Desktop,LinkedIn
+1428,2025-06-11,Mumbai,Desktop,Instagram
+1429,2025-03-08,Pune,Desktop,Referral
+1430,2025-05-23,Hyderabad,Desktop,Organic
+1431,2025-04-16,Mumbai,Desktop,Referral
+1432,2025-02-20,Kochi,Tablet,Referral
+1433,2025-02-14,Hyderabad,Desktop,Instagram
+1434,2025-06-22,Jaipur,Desktop,LinkedIn
+1435,2025-01-21,Kolkata,Tablet,Instagram
+1436,2025-04-29,Delhi,Mobile,Instagram
+1437,2025-04-18,Kochi,Tablet,LinkedIn
+1438,2025-01-19,Mumbai,Mobile,Instagram
+1439,2025-02-28,Pune,Desktop,Instagram
+1440,2025-03-10,Kochi,Tablet,LinkedIn
+1441,2025-03-11,Ahmedabad,Desktop,Referral
+1442,2025-05-14,Ahmedabad,Desktop,Google Ads
+1443,2025-02-17,Bangalore,Mobile,Google Ads
+1444,2025-06-19,Hyderabad,Tablet,Organic
+1445,2025-02-23,Delhi,Desktop,Organic
+1446,2025-01-25,Mumbai,Desktop,Referral
+1447,2025-01-14,Bangalore,Desktop,Referral
+1448,2025-01-22,Mumbai,Desktop,Referral
+1449,2025-02-09,Mumbai,Tablet,LinkedIn
+1450,2025-03-21,Chennai,Mobile,Instagram
+1451,2025-04-24,Delhi,Mobile,Referral
+1452,2025-02-13,Bangalore,Mobile,Instagram
+1453,2025-03-25,Ahmedabad,Desktop,Referral
+1454,2025-03-11,Jaipur,Desktop,Google Ads
+1455,2025-06-28,Jaipur,Mobile,Referral
+1456,2025-06-02,Ahmedabad,Tablet,Referral
+1457,2025-04-22,Jaipur,Tablet,Referral
+1458,2025-03-21,Pune,Desktop,Referral
+1459,2025-02-28,Mumbai,Desktop,Instagram
+1460,2025-04-04,Kolkata,Desktop,Google Ads
+1461,2025-03-19,Bangalore,Mobile,Referral
+1462,2025-02-04,Pune,Desktop,LinkedIn
+1463,2025-05-17,Bangalore,Tablet,LinkedIn
+1464,2025-05-03,Hyderabad,Mobile,LinkedIn
+1465,2025-03-16,Kochi,Mobile,Organic
+1466,2025-05-21,Pune,Mobile,LinkedIn
+1467,2025-05-24,Kolkata,Desktop,Google Ads
+1468,2025-02-11,Kolkata,Desktop,Google Ads
+1469,2025-03-09,Mumbai,Desktop,Google Ads
+1470,2025-05-13,Kochi,Tablet,Instagram
+1471,2025-03-14,Jaipur,Desktop,LinkedIn
+1472,2025-02-18,Mumbai,Mobile,Google Ads
+1473,2025-03-16,Mumbai,Tablet,LinkedIn
+1474,2025-06-08,Ahmedabad,Desktop,Referral
+1475,2025-05-06,Chennai,Desktop,Organic
+1476,2025-02-08,Bangalore,Tablet,Organic
+1477,2025-02-17,Mumbai,Desktop,Instagram
+1478,2025-02-02,Ahmedabad,Tablet,Organic
+1479,2025-03-01,Mumbai,Mobile,Organic
+1480,2025-05-07,Chennai,Desktop,LinkedIn
+1481,2025-03-21,Ahmedabad,Desktop,LinkedIn
+1482,2025-06-28,Bangalore,Desktop,Organic
+1483,2025-02-07,Bangalore,Desktop,LinkedIn
+1484,2025-01-19,Jaipur,Desktop,Google Ads
+1485,2025-02-19,Hyderabad,Desktop,Organic
+1486,2025-02-01,Chennai,Desktop,LinkedIn
+1487,2025-03-05,Bangalore,Mobile,LinkedIn
+1488,2025-01-25,Jaipur,Tablet,Google Ads
+1489,2025-05-02,Kolkata,Tablet,Instagram
+1490,2025-03-24,Delhi,Tablet,Organic
+1491,2025-05-21,Jaipur,Mobile,Instagram
+1492,2025-05-04,Hyderabad,Mobile,Instagram
+1493,2025-01-14,Chennai,Mobile,Google Ads
+1494,2025-06-12,Kolkata,Desktop,Organic
+1495,2025-02-12,Hyderabad,Tablet,Organic
+1496,2025-04-12,Chennai,Mobile,Organic
+1497,2025-05-29,Ahmedabad,Tablet,Referral
+1498,2025-02-09,Pune,Mobile,Google Ads
+1499,2025-02-10,Ahmedabad,Mobile,Referral
+1500,2025-03-28,Bangalore,Mobile,Instagram
